@@ -1,2 +1,1 @@
-# github_python
-Python and Pandas learning
+# Yi Zhang's Learning about Python and Pandas
